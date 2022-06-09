@@ -1,0 +1,10 @@
+D:\proyectos C#\EjemploButton\EjemploButton\bin\Debug\EjemploButton.exe.config
+D:\proyectos C#\EjemploButton\EjemploButton\bin\Debug\EjemploButton.exe
+D:\proyectos C#\EjemploButton\EjemploButton\bin\Debug\EjemploButton.pdb
+D:\proyectos C#\EjemploButton\EjemploButton\obj\Debug\EjemploButton.csprojAssemblyReference.cache
+D:\proyectos C#\EjemploButton\EjemploButton\obj\Debug\EjemploButton.Form1.resources
+D:\proyectos C#\EjemploButton\EjemploButton\obj\Debug\EjemploButton.Properties.Resources.resources
+D:\proyectos C#\EjemploButton\EjemploButton\obj\Debug\EjemploButton.csproj.GenerateResource.cache
+D:\proyectos C#\EjemploButton\EjemploButton\obj\Debug\EjemploButton.csproj.CoreCompileInputs.cache
+D:\proyectos C#\EjemploButton\EjemploButton\obj\Debug\EjemploButton.exe
+D:\proyectos C#\EjemploButton\EjemploButton\obj\Debug\EjemploButton.pdb
